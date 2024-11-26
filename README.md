@@ -1,2 +1,2 @@
 # demo
-basics of GitHub class
+basics of GitHub 
